@@ -14,7 +14,6 @@ DCP addresses this gap by defining a protocol layer—not a platform—that enab
 DCP is a protocol specification, not a product.
 
 It defines:
-
 - Standard roles
 - Standard message flows
 - Standard consent artifacts
@@ -59,18 +58,13 @@ The protocol standardizes interactions across the full consent lifecycle:
 Each interaction is represented as a verifiable protocol message.
 
 ## 📦 Key Protocol Artifacts
-
 DCP standardizes the following artifacts:
-
 - Consent Agreement Object
 -- A machine-readable, signed record capturing purpose, scope, duration, and legal basis
-
 - Consent Receipt
 -- A portable, verifiable proof issued to the Data Principal
-
 - Consent Status & Revocation Reference
 -- Lightweight mechanisms to verify current consent validity without revealing personal data
-
 - Audit Proofs
 -- Cryptographic evidence of consent lifecycle events
 
@@ -92,7 +86,6 @@ DCP is designed to interoperate with:
 - Cross-border privacy frameworks (e.g., Alignment with GDPR or W3C Data Privacy Vocabulary)
 
 ## 🏛️ Governance & Open Source
-
 - Open-source under a permissive license
 - Neutral, vendor-independent protocol
 - Community-driven evolution
