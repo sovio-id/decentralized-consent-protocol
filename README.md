@@ -109,4 +109,8 @@ We welcome:
 - Implementers & integrators
 - Researchers & standards bodies
 
-#### From [AYANWORKS](https://ayanworks.com) team who built and contributed [CREDEBL Platform](https://github.com/credebl) to Linux Foundation Decentralized Trust (LFDT)
+Matrix: (https://matrix.to/#/%23sovio-id%3Amatrix.org)
+
+---
+
+#### - Initiated by [AYANWORKS](https://ayanworks.com) team who built and contributed [CREDEBL Platform](https://github.com/credebl) to Linux Foundation Decentralized Trust (LFDT)
