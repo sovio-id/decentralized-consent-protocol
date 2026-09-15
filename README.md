@@ -114,3 +114,11 @@ Matrix: (https://matrix.to/#/%23sovio-id%3Amatrix.org)
 ---
 
 #### - Initiated by [AYANWORKS](https://ayanworks.com) team who built and contributed [CREDEBL Platform](https://github.com/credebl) to Linux Foundation Decentralized Trust (LFDT)
+
+## License
+
+Copyright (c) 2026 AYANWORKS.
+
+This component is released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) per the Sovio Open-Source Component Licensing Policy: https://github.com/sovio-id/.github/blob/main/LICENSE-OPENSOURCE.md
+
+Commercial products of the Sovio product family remain subject to the [Sovio Platform License](https://github.com/sovio-id/.github/blob/main/LICENSE).
